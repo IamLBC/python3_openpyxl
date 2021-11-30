@@ -1,0 +1,7 @@
+altgraph~=0.17.2
+macholib~=1.15.2
+openpyxl~=3.0.0
+modulegraph~=0.19.2
+pefile~=2021.9.3
+pip~=21.3.1
+setuptools~=49.2.1

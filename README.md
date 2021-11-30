@@ -1,2 +1,9 @@
-# python3_openpyxl
-Automatic statistics Excel
+# Automatic statistics Excel
+
+## build
+
+```
+pip install pyinstaller
+pyinstaller -F main.py
+```
+
